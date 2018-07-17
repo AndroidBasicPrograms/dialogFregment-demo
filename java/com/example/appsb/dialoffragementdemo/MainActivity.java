@@ -1,4 +1,3 @@
-package com.example.appsb.dialoffragementdemo;
 
 import android.support.v4.app.DialogFragment;
 import android.support.v4.app.FragmentManager;
