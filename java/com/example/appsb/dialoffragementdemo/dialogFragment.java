@@ -1,4 +1,3 @@
-package com.example.appsb.dialoffragementdemo;
 
 
 import android.graphics.Color;
